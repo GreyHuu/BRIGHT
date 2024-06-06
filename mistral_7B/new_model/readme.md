@@ -1,0 +1,2 @@
+## Store the Lora weights fine-tuned based on Lora
+The weight link: [onedrive](https://microsoftcrop-my.sharepoint.com/:f:/g/personal/greyhuhu_stu_my365_fit/Ejo7FeI7k11LlJNbmCcyU1ABIdT7E_4MAX-VzQqm3Z36sw?e=7SQ18E)
