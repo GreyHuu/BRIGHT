@@ -1,0 +1,10 @@
+datasets==2.18.0
+joblib==1.3.2
+numpy==1.24.3
+pandas==2.0.3
+peft==0.9.0
+scipy==1.13.1
+torch==2.0.1
+tqdm==4.65.0
+transformers==4.38.2
+trl==0.4.7
