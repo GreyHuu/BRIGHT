@@ -1,5 +1,5 @@
 # BRIGHT
-This repo provides a reference implementation of CasFlow as described in the paper:
+This repo provides a reference implementation of BRIGHT as described in the paper:
 > Amplifying Commonsense Knowledge via Bi-directional Relation
 Integrated Graph-based Contrastive Pre-training from Foundation Models
 
